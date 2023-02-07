@@ -8,3 +8,6 @@ Download the files from the PacMen repository, save them to a folder, and drag a
 Potential Improvements:
 - add the option for the objects to react to the mouse cursor
 - change pacman size every certain amount of contact with edges
+
+
+MIT Licensed 
